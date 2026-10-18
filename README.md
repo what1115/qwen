@@ -1,9 +1,4 @@
 
----
-
-## 把 README.md 改成下面这个内容
-
-```markdown
 # Qwen
 
 > 基于 Qwen 的 AI 相关项目，目前处于初始开发阶段。
@@ -18,13 +13,13 @@
 
 ## 目录结构
 
-```
+
 ├── src/          # 源代码
 ├── docs/         # 文档
 ├── tests/        # 测试
 ├── config/       # 配置文件
 └── README.md
-```
+
 
 ## 快速开始
 
@@ -34,19 +29,24 @@
 
 ### 安装步骤
 
-```bash
-# 克隆项目
+bash
+克隆项目
+
 git clone git@github.com:what1115/qwen.git
 
-# 进入项目目录
+进入项目目录
+
 cd qwen
 
-# 安装依赖（待补充）
-# npm install
+安装依赖（待补充）
 
-# 启动项目（待补充）
-# npm run dev
-```
+npm install
+
+启动项目（待补充）
+
+npm run dev
+
+
 
 ## 功能特性
 
@@ -68,6 +68,4 @@ cd qwen
 ## 联系方式
 
 - 邮箱：2705063137@qq.com
-```
 
----
